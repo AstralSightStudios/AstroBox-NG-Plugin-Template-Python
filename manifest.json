@@ -1,0 +1,12 @@
+{
+  "name": "Python Plugin Template",
+  "icon": "icon.png",
+  "version": "0.1.0",
+  "description": "AstroBox API Level 4 Python 插件模板",
+  "author": "your name",
+  "website": "https://github.com/yourname/your-plugin",
+  "entry": "plugin.wasm",
+  "wasi_version": 3,
+  "api_level": 4,
+  "permissions": []
+}
